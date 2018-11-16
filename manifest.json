@@ -1,7 +1,7 @@
 {
-  "name": "Write Before Facebook",
+  "name": "Do Your Writing",
   "version": "0.01",
-  "description": "Force yourself to write before you're allowed to use Facebook.",
+  "description": "Force yourself to write before you're allowed to use Facebook or other websites.",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "options_page": "options.html",
   "background": {
